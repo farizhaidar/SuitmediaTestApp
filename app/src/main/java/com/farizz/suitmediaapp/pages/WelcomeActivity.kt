@@ -14,7 +14,6 @@ class WelcomeActivity : AppCompatActivity() {
     companion object {
         const val EXTRA_NAME = "EXTRA_NAME"
         const val EXTRA_SELECTED_USER = "EXTRA_SELECTED_USER"
-        const val REQUEST_CODE = 100
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
